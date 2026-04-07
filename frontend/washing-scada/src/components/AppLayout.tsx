@@ -1,11 +1,6 @@
-import { type ReactNode } from 'react';
 import { Link, useLocation, Outlet } from 'react-router-dom';
 
-interface AppLayoutProps {
-  children?: ReactNode;
-}
-
-const AppLayout = ({ children }: AppLayoutProps) => {
+const AppLayout = () => {
   const location = useLocation();
 
   const navigation = [
