@@ -1,0 +1,90 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (transparent) -->
+
+  <!-- Main Body - Industrial Style -->
+  <rect x="56" y="128" width="400" height="320" rx="24" ry="24" fill="#f8f9fa" stroke="#37474f" stroke-width="8"/>
+
+  <!-- Top Control Panel -->
+  <rect x="80" y="80" width="352" height="64" rx="16" ry="16" fill="#263238" stroke="#37474f" stroke-width="4"/>
+
+  <!-- Control Panel Details -->
+  <circle cx="120" cy="112" r="12" fill="#4caf50"/>
+  <circle cx="160" cy="112" r="12" fill="#ff9800"/>
+  <circle cx="200" cy="112" r="12" fill="#f44336"/>
+  <circle cx="240" cy="112" r="12" fill="#2196f3"/>
+
+  <!-- LCD Display -->
+  <rect x="280" y="96" width="120" height="32" rx="4" ry="4" fill="#000"/>
+  <rect x="285" y="101" width="110" height="22" rx="2" ry="2" fill="#00ff00"/>
+  <text x="340" y="116" text-anchor="middle" font-family="monospace" font-size="12" fill="#000" font-weight="bold">Khang Thinh</text>
+
+  <!-- Main Door/Window -->
+  <circle cx="256" cy="256" r="120" fill="none" stroke="#37474f" stroke-width="8"/>
+  <circle cx="256" cy="256" r="100" fill="#e3f2fd" stroke="#37474f" stroke-width="4"/>
+  <circle cx="256" cy="256" r="80" fill="#bbdefb" stroke="#37474f" stroke-width="2"/>
+
+  <!-- Door Handle -->
+  <rect x="360" y="240" width="8" height="32" rx="4" ry="4" fill="#37474f"/>
+
+  <!-- Drum Pattern - Industrial Style -->
+  <g stroke="#546e7a" stroke-width="2" fill="none">
+    <path d="M160 200 Q256 180 352 200"/>
+    <path d="M160 220 Q256 200 352 220"/>
+    <path d="M160 240 Q256 220 352 240"/>
+    <path d="M160 260 Q256 240 352 260"/>
+    <path d="M160 280 Q256 260 352 280"/>
+    <path d="M160 300 Q256 280 352 300"/>
+    <path d="M160 320 Q256 300 352 320"/>
+  </g>
+
+  <!-- Industrial Details -->
+  <!-- Side Panels -->
+  <rect x="32" y="160" width="32" height="256" rx="8" ry="8" fill="#455a64" stroke="#37474f" stroke-width="2"/>
+  <rect x="448" y="160" width="32" height="256" rx="8" ry="8" fill="#455a64" stroke="#37474f" stroke-width="2"/>
+
+  <!-- Ventilation Grilles -->
+  <g fill="#37474f">
+    <rect x="40" y="180" width="16" height="4" rx="2"/>
+    <rect x="40" y="200" width="16" height="4" rx="2"/>
+    <rect x="40" y="220" width="16" height="4" rx="2"/>
+    <rect x="40" y="240" width="16" height="4" rx="2"/>
+    <rect x="40" y="260" width="16" height="4" rx="2"/>
+    <rect x="40" y="280" width="16" height="4" rx="2"/>
+    <rect x="40" y="300" width="16" height="4" rx="2"/>
+    <rect x="40" y="320" width="16" height="4" rx="2"/>
+    <rect x="40" y="340" width="16" height="4" rx="2"/>
+    <rect x="40" y="360" width="16" height="4" rx="2"/>
+  </g>
+
+  <g fill="#37474f">
+    <rect x="456" y="180" width="16" height="4" rx="2"/>
+    <rect x="456" y="200" width="16" height="4" rx="2"/>
+    <rect x="456" y="220" width="16" height="4" rx="2"/>
+    <rect x="456" y="240" width="16" height="4" rx="2"/>
+    <rect x="456" y="260" width="16" height="4" rx="2"/>
+    <rect x="456" y="280" width="16" height="4" rx="2"/>
+    <rect x="456" y="300" width="16" height="4" rx="2"/>
+    <rect x="456" y="320" width="16" height="4" rx="2"/>
+    <rect x="456" y="340" width="16" height="4" rx="2"/>
+    <rect x="456" y="360" width="16" height="4" rx="2"/>
+  </g>
+
+  <!-- Base/Support -->
+  <rect x="64" y="448" width="384" height="24" rx="12" ry="12" fill="#37474f"/>
+  <circle cx="120" cy="472" r="16" fill="#263238"/>
+  <circle cx="200" cy="472" r="16" fill="#263238"/>
+  <circle cx="312" cy="472" r="16" fill="#263238"/>
+  <circle cx="392" cy="472" r="16" fill="#263238"/>
+
+  <!-- Warning Labels -->
+  <rect x="80" y="152" width="60" height="20" rx="4" ry="4" fill="#ffeb3b" stroke="#f57f17" stroke-width="1"/>
+  <text x="110" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#000" font-weight="bold">CAUTION</text>
+
+  <rect x="372" y="152" width="60" height="20" rx="4" ry="4" fill="#ffeb3b" stroke="#f57f17" stroke-width="1"/>
+  <text x="402" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#000" font-weight="bold">HOT</text>
+
+  <!-- Industrial Branding -->
+  <rect x="200" y="400" width="112" height="24" rx="8" ry="8" fill="#1976d2"/>
+  <text x="256" y="416" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">INDUSTRIAL</text>
+
+</svg>
