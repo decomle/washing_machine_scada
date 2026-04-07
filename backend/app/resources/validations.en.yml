@@ -1,0 +1,6 @@
+PASSWORD_TOO_SHORT: Password must be at least 6 characters.
+PASSWORD_NO_NUMBER: Password must contain at least one number.
+PASSWORD_NO_LETTER: Password must contain at least one letter.
+INVALID_EMAIL: Invalid email address.
+USER_NOT_FOUND: User not found.
+USERNAME_REQUIRED: Username is required when creating a profile.

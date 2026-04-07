@@ -1,0 +1,6 @@
+PASSWORD_TOO_SHORT: Mat khau phai co it nhat 6 ky tu.
+PASSWORD_NO_NUMBER: Mat khau phai co it nhat mot chu so.
+PASSWORD_NO_LETTER: Mat khau phai co it nhat mot chu cai.
+INVALID_EMAIL: Dia chi email khong hop le.
+USER_NOT_FOUND: Khong tim thay nguoi dung.
+USERNAME_REQUIRED: Can username khi tao ho so.
